@@ -1,0 +1,865 @@
+01.07 02:10 Array
+(
+    [currentPhone] => +7 (435) 345-45-55
+    [currentName] => Test
+    [currentEmail] => test@wedsf.hg
+    [children] => 3
+    [incomeInput] => 2558
+    [familyMembersInput] => 4
+    [hourseSelect] => 0
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 
+    [apartmentMetersInput] => 
+    [carSelect] => 1
+    [carYearInput] => 2009
+    [carHourseInput] => 67
+    [disabled] => да
+)
+
+01.07 02:20 Array
+(
+)
+
+01.07 02:21 Array
+(
+    [currentPhone] => +7 (435) 435-43-54
+    [currentName] => Test
+    [currentEmail] => 3dfs2dsf@s.dssf
+    [children] => 1
+    [incomeInput] => 7298
+    [familyMembersInput] => 2
+    [hourseSelect] => 0
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => да
+)
+
+01.07 02:22 Array
+(
+)
+
+01.07 02:25 Array
+(
+    [currentPhone] => +7 (435) 435-34-55
+    [currentName] => Test
+    [currentEmail] => test@mai.sd
+    [children] => 5
+    [incomeInput] => 126
+    [familyMembersInput] => 7
+    [hourseSelect] => 0
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 34
+    [apartmentMetersInput] => 
+    [carSelect] => 1
+    [carYearInput] => 345
+    [carHourseInput] => 34
+    [disabled] => да
+)
+
+01.07 02:29 Array
+(
+    [currentPhone] => +7 (435) 345-45-55
+    [currentName] => Test
+    [currentEmail] => test3@dsfg.fd
+    [children] => 1
+    [incomeInput] => 0
+    [familyMembersInput] => 2
+    [hourseSelect] => 0
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+01.07 02:29 Array
+(
+    [currentPhone] => +7 (435) 345-45-55
+    [currentName] => Test
+    [currentEmail] => test3@dsfg.fd
+    [children] => 1
+    [incomeInput] => 0
+    [familyMembersInput] => 2
+    [hourseSelect] => 0
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+01.07 02:31 Array
+(
+)
+
+01.07 02:32 Array
+(
+)
+
+01.07 02:32 Array
+(
+)
+
+01.07 02:33 Array
+(
+)
+
+01.07 02:38 Array
+(
+)
+
+01.07 02:39 Array
+(
+)
+
+01.07 02:39 Array
+(
+)
+
+01.07 02:40 Array
+(
+    [currentPhone] => +7 (435) 345-34-55
+    [currentName] => test
+    [currentEmail] => test@dsf.gf
+    [children] => 1
+    [incomeInput] => 0
+    [familyMembersInput] => 2
+    [hourseSelect] => 1
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+01.07 02:43 Array
+(
+)
+
+01.07 02:48 Array
+(
+    [currentPhone] => +7 (435) 345-43-55
+    [currentName] => test
+    [currentEmail] => test@dsgf.fd
+    [children] => 1
+    [incomeInput] => 0
+    [familyMembersInput] => 2
+    [hourseSelect] => 0
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+01.07 02:48 Array
+(
+    [currentPhone] => +7 (435) 345-43-55
+    [currentName] => test
+    [currentEmail] => test@dsgf.fd
+    [children] => 1
+    [incomeInput] => 0
+    [familyMembersInput] => 2
+    [hourseSelect] => 0
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+01.07 02:50 Array
+(
+    [currentPhone] => +7 (435) 345-43-55
+    [currentName] => test
+    [currentEmail] => test@dsgf.fd
+    [children] => 1
+    [incomeInput] => 0
+    [familyMembersInput] => 2
+    [hourseSelect] => 0
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+01.07 02:50 Array
+(
+    [currentPhone] => +7 (435) 345-43-55
+    [currentName] => test
+    [currentEmail] => test@dsgf.fd
+    [children] => 1
+    [incomeInput] => 0
+    [familyMembersInput] => 2
+    [hourseSelect] => 0
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+01.07 02:52 Array
+(
+    [currentPhone] => +7 (345) 435-55-55
+    [currentName] => Test
+    [currentEmail] => test@sdm.sd
+    [children] => 1
+    [incomeInput] => 475
+    [familyMembersInput] => 4
+    [hourseSelect] => 0
+    [apartamentSelect] => 1
+    [hourseMetersInput] => 
+    [areaMetersInput] => 
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => да
+)
+
+01.07 02:54 Array
+(
+    [currentPhone] => +7 (345) 435-55-55
+    [currentName] => Test
+    [currentEmail] => test@sdm.sd
+    [children] => 1
+    [incomeInput] => 475
+    [familyMembersInput] => 4
+    [hourseSelect] => 0
+    [apartamentSelect] => 1
+    [hourseMetersInput] => 
+    [areaMetersInput] => 
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => да
+)
+
+01.07 02:57 Array
+(
+    [currentPhone] => +7 (900) 000-00-00
+    [currentName] => Тестовая
+    [currentEmail] => zabit.mv@gmail.com
+    [children] => 2
+    [incomeInput] => 2712000
+    [familyMembersInput] => 4
+    [hourseSelect] => 0
+    [apartamentSelect] => 1
+    [hourseMetersInput] => 
+    [areaMetersInput] => 
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+02.07 06:55 Array
+(
+    [currentPhone] => +7 (928) 535-93-11
+    [currentName] => Светлана 
+    [currentEmail] => repetitor3052@gmail.com
+    [children] => 2
+    [incomeInput] => 0
+    [familyMembersInput] => 3
+    [hourseSelect] => 0
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => да
+)
+
+02.07 07:23 Array
+(
+    [currentPhone] => +7 (988) 440-86-79
+    [currentName] => Айханум 
+    [currentEmail] => Ajhanumdzalilova@gmail.com 
+    [children] => 2
+    [incomeInput] => 471240
+    [familyMembersInput] => 4
+    [hourseSelect] => 0
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+02.07 07:24 Array
+(
+    [currentPhone] => +7 (988) 440-86-79
+    [currentName] => Айханум 
+    [currentEmail] => Ajhanumdzalilova@gmail.com 
+    [children] => 2
+    [incomeInput] => 471240
+    [familyMembersInput] => 4
+    [hourseSelect] => 0
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+03.07 14:47 Array
+(
+    [currentPhone] => +7 (900) 267-36-32
+    [currentName] => Халикова Абидат 
+    [currentEmail] => halikovaabidat@gmail.com
+    [children] => 4
+    [incomeInput] => 480000
+    [familyMembersInput] => 6
+    [hourseSelect] => 0
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => да
+)
+
+04.07 08:59 Array
+(
+    [currentPhone] => +7 (928) 562-55-64
+    [currentName] => Курбан 
+    [currentEmail] => Курбанов курбан 
+    [children] => 1
+    [incomeInput] => 0
+    [familyMembersInput] => 2
+    [hourseSelect] => 1
+    [apartamentSelect] => 1
+    [hourseMetersInput] => 
+    [areaMetersInput] => 
+    [apartmentMetersInput] => 
+    [carSelect] => 1
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+04.07 09:34 Array
+(
+    [currentPhone] => +7 (928) 562-55-64
+    [currentName] => Курбан 
+    [currentEmail] => Kurbankurbanov0599@gmail.com 
+    [children] => 1
+    [incomeInput] => 84000
+    [familyMembersInput] => 6
+    [hourseSelect] => 1
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 0700
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+04.07 09:35 Array
+(
+    [currentPhone] => +7 (928) 562-55-64
+    [currentName] => Курбан 
+    [currentEmail] => Kurbankurbanov0599@gmail.com 
+    [children] => 1
+    [incomeInput] => 84000
+    [familyMembersInput] => 6
+    [hourseSelect] => 1
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 0700
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+04.07 09:36 Array
+(
+    [currentPhone] => +7 (928) 562-55-64
+    [currentName] => Курбан 
+    [currentEmail] => Kurbankurbanov0599@gmail.com 
+    [children] => 1
+    [incomeInput] => 84000
+    [familyMembersInput] => 6
+    [hourseSelect] => 1
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 0700
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+04.07 09:36 Array
+(
+    [currentPhone] => +7 (928) 562-55-64
+    [currentName] => Курбан 
+    [currentEmail] => Kurbankurbanov0599@gmail.com 
+    [children] => 1
+    [incomeInput] => 84000
+    [familyMembersInput] => 6
+    [hourseSelect] => 1
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 0700
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+04.07 09:37 Array
+(
+    [currentPhone] => +7 (928) 562-55-64
+    [currentName] => Курбан 
+    [currentEmail] => Kurbankurbanov0599@gmail.com 
+    [children] => 1
+    [incomeInput] => 168000
+    [familyMembersInput] => 6
+    [hourseSelect] => 1
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 0700
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+04.07 09:37 Array
+(
+    [currentPhone] => +7 (928) 562-55-64
+    [currentName] => Курбан 
+    [currentEmail] => Kurbankurbanov0599@gmail.com 
+    [children] => 1
+    [incomeInput] => 168000
+    [familyMembersInput] => 6
+    [hourseSelect] => 1
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 0700
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+04.07 09:39 Array
+(
+    [currentPhone] => +7 (928) 562-55-64
+    [currentName] => Курбан 
+    [currentEmail] => Kurbankurbanov0599@gmail.com 
+    [children] => 1
+    [incomeInput] => 168000
+    [familyMembersInput] => 6
+    [hourseSelect] => 1
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 0700
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+04.07 21:58 Array
+(
+    [currentPhone] => +7 (111) 111-11-11
+    [currentName] => Тест
+    [currentEmail] => 111111111111
+    [Количество_детей] => 2
+    [incomeInput] => 0
+    [familyMembersInput] => 2
+    [hourseSelect] => 0
+    [apartamentSelect] => 0
+    [hourseMetersInput] => 
+    [areaMetersInput] => 
+    [apartmentMetersInput] => 
+    [carSelect] => 0
+    [carYearInput] => 
+    [carHourseInput] => 
+    [disabled] => нет
+)
+
+04.07 22:10 Array
+(
+    [Номер_телефона] => +7 (111) 111-11-11
+    [Имя] => Тест
+    [Электронная_почта] => test@gmail.com
+    [Количество_детей] => 5
+    [Общий_доход_семьи] => 0
+    [Количество_членов_семьи] => 7
+    [Количество_домов] => 4
+    [Количество_квартир] => 0
+    [Количество_метров_у_дома] => 
+    [Количество_соток_у_участка] => 
+    [Количество_квадратов_квартиры] => 
+    [Количество_машин] => 0
+    [Год_выпуска_машины] => 
+    [Количество_л_c] => 
+    [Есть_ли_дети_инвалиды] => нет
+)
+
+04.07 22:12 Array
+(
+    [Номер_телефона] => +7 (111) 111-22-22
+    [Имя] => Name
+    [Электронная_почта] => 11111111111111111
+    [Количество_детей] => 1
+    [Общий_доход_семьи] => 0
+    [Количество_членов_семьи] => 2
+    [Количество_домов] => 0
+    [Количество_квартир] => 0
+    [Количество_метров_у_дома] => 
+    [Количество_соток_у_участка] => 
+    [Количество_квадратов_квартиры] => 
+    [Количество_машин] => 0
+    [Год_выпуска_машины] => 
+    [Количество_л_c] => 
+    [Есть_ли_дети_инвалиды] => нет
+)
+
+04.07 22:14 Array
+(
+    [Номер_телефона] => +7 (111) 111-11-11
+    [Имя] => test
+    [Электронная_почта] => text@gmail.com
+    [Количество_детей] => 5
+    [Общий_доход_семьи] => 0
+    [Количество_членов_семьи] => 7
+    [Количество_домов] => 4
+    [Количество_квартир] => 0
+    [Количество_метров_у_дома] => 
+    [Количество_соток_у_участка] => 
+    [Количество_квадратов_квартиры] => 
+    [Количество_машин] => 0
+    [Год_выпуска_машины] => 
+    [Количество_л_c] => 
+    [Есть_ли_дети_инвалиды] => нет
+)
+
+04.07 22:17 Array
+(
+    [Номер_телефона] => +7 (111) 111-11-11
+    [Имя] => 213321
+    [Электронная_почта] => test@gmail.com
+    [Количество_детей] => 1
+    [Общий_доход_семьи] => 0
+    [Количество_членов_семьи] => 2
+    [Количество_домов] => 0
+    [Количество_квартир] => 0
+    [Количество_метров_у_дома] => 
+    [Количество_соток_у_участка] => 
+    [Количество_квадратов_квартиры] => 
+    [Количество_машин] => 3
+    [Год_выпуска_машины] => 
+    [Количество_л_c] => 
+    [Есть_ли_дети_инвалиды] => нет
+)
+
+04.07 22:18 Array
+(
+    [currentPhone] => +7 (111) 111-11-11
+    [currentName] => test
+    [currentEmail] => test@gmail.com
+    [Количество_детей] => 1
+    [Общий_доход_семьи] => 0
+    [Количество_членов_семьи] => 2
+    [Количество_домов] => 0
+    [Количество_квартир] => 0
+    [Количество_метров_у_дома] => 
+    [Количество_соток_у_участка] => 
+    [Количество_квадратов_квартиры] => 
+    [Количество_машин] => 0
+    [Год_выпуска_машины] => 
+    [Количество_л_c] => 
+    [Есть_ли_дети_инвалиды] => нет
+)
+
+11.07 22:33 Array
+(
+    [currentPhone] => +7 (928) 062-59-36
+    [currentName] => Светлана 
+    [currentEmail] => svetamaxsubova.12@gmail.com
+    [Количество_детей] => 3
+    [Общий_доход_семьи] => 0
+    [Количество_членов_семьи] => 5
+    [Количество_домов] => 0
+    [Количество_квартир] => 0
+    [Количество_метров_у_дома] => 
+    [Количество_соток_у_участка] => 
+    [Количество_квадратов_квартиры] => 
+    [Количество_машин] => 0
+    [Год_выпуска_машины] => 
+    [Количество_л_c] => 
+    [Есть_ли_дети_инвалиды] => нет
+)
+
+11.07 22:34 Array
+(
+    [currentPhone] => +7 (928) 062-59-36
+    [currentName] => Светлана 
+    [currentEmail] => svetamaxsubova.12@gmail.com
+    [Количество_детей] => 3
+    [Общий_доход_семьи] => 0
+    [Количество_членов_семьи] => 5
+    [Количество_домов] => 0
+    [Количество_квартир] => 0
+    [Количество_метров_у_дома] => 
+    [Количество_соток_у_участка] => 
+    [Количество_квадратов_квартиры] => 
+    [Количество_машин] => 0
+    [Год_выпуска_машины] => 
+    [Количество_л_c] => 
+    [Есть_ли_дети_инвалиды] => нет
+)
+
+18.07 20:09 Array
+(
+    [currentPhone] => +7 (928) 500-22-23
+    [currentName] => Рапив
+    [currentEmail] => akamovarapiv@gmail.com
+    [Количество_детей] => 3
+    [Общий_доход_семьи] => 536220
+    [Количество_членов_семьи] => 5
+    [Количество_домов] => 0
+    [Количество_квартир] => 0
+    [Количество_метров_у_дома] => 
+    [Количество_соток_у_участка] => 
+    [Количество_квадратов_квартиры] => 
+    [Количество_машин] => 0
+    [Год_выпуска_машины] => 
+    [Количество_л_c] => 
+    [Есть_ли_дети_инвалиды] => нет
+)
+
+24.07 07:14 Array
+(
+    [currentPhone] => +7 (999) 999-99-99
+    [currentName] => Тест
+    [currentEmail] => mail@mail.com
+    [Количество_детей] => 2
+    [Общий_доход_семьи] => 507000
+    [Количество_членов_семьи] => 4
+    [Количество_домов] => 0
+    [Количество_квартир] => 0
+    [Количество_метров_у_дома] => 
+    [Количество_соток_у_участка] => 
+    [Количество_квадратов_квартиры] => 
+    [Количество_машин] => 0
+    [Год_выпуска_машины] => 
+    [Количество_л_c] => 
+    [Есть_ли_дети_инвалиды] => нет
+)
+
+24.07 20:55 Array
+(
+    [currentPhone] => +7 (989) 475-56-17
+    [currentName] => Совзиханова Айшат Идрисовна
+    [currentEmail] => sovzihanov@mail.ru
+    [Количество_детей] => 2
+    [Общий_доход_семьи] => 240000
+    [Количество_членов_семьи] => 4
+    [Количество_домов] => 0
+    [Количество_квартир] => 0
+    [Количество_метров_у_дома] => 
+    [Количество_соток_у_участка] => 
+    [Количество_квадратов_квартиры] => 
+    [Количество_машин] => 1
+    [Год_выпуска_машины] => 2012
+    [Количество_л_c] => 98
+    [Есть_ли_дети_инвалиды] => да
+)
+
+24.07 22:02 Array
+(
+    [currentPhone] => +7 (961) 214-06-36
+    [currentName] => Малика
+    [currentEmail] => malikamagomedova130@gmail.com
+    [Количество_детей] => 1
+    [Общий_доход_семьи] => 288
+    [Количество_членов_семьи] => 3
+    [Количество_домов] => 0
+    [Количество_квартир] => 0
+    [Количество_метров_у_дома] => 
+    [Количество_соток_у_участка] => 
+    [Количество_квадратов_квартиры] => 
+    [Количество_машин] => 0
+    [Год_выпуска_машины] => 
+    [Количество_л_c] => 
+    [Есть_ли_дети_инвалиды] => нет
+)
+
+25.07 15:09 Array
+(
+    [currentPhone] => +7 (928) 958-23-32
+    [currentName] => Зарипат 
+    [currentEmail] => dagirovazaripat@gmail.com
+    [Количество_детей] => 3
+    [Общий_доход_семьи] => 325440
+    [Количество_членов_семьи] => 5
+    [Количество_домов] => 0
+    [Количество_квартир] => 0
+    [Количество_метров_у_дома] => 
+    [Количество_соток_у_участка] => 
+    [Количество_квадратов_квартиры] => 
+    [Количество_машин] => 0
+    [Год_выпуска_машины] => 
+    [Количество_л_c] => 
+    [Есть_ли_дети_инвалиды] => нет
+)
+
+25.07 15:09 Array
+(
+    [currentPhone] => +7 (928) 958-23-32
+    [currentName] => Зарипат 
+    [currentEmail] => dagirovazaripat@gmail.com
+    [Количество_детей] => 3
+    [Общий_доход_семьи] => 325440
+    [Количество_членов_семьи] => 5
+    [Количество_домов] => 0
+    [Количество_квартир] => 0
+    [Количество_метров_у_дома] => 
+    [Количество_соток_у_участка] => 
+    [Количество_квадратов_квартиры] => 
+    [Количество_машин] => 0
+    [Год_выпуска_машины] => 
+    [Количество_л_c] => 
+    [Есть_ли_дети_инвалиды] => нет
+)
+
+25.07 20:18 Array
+(
+    [currentPhone] => +7 (213) 314-12-41
+    [currentName] => test1111
+    [currentEmail] => test@gmailik.com
+    [Количество_детей] => 1
+    [Общий_доход_семьи] => 135600
+    [Среднедушевой_доход_семьи] => 5650
+    [Полагается_выплата] => 100%
+    [Количество_членов_семьи] => 2
+    [Количество_домов] => 0
+    [Количество_квартир] => 0
+    [Количество_метров_у_дома] => 
+    [Количество_соток_у_участка] => 
+    [Количество_квадратов_квартиры] => 
+    [Количество_машин] => 0
+    [Год_выпуска_машины] => 
+    [Количество_л_c] => 
+    [Есть_ли_дети_инвалиды] => нет
+)
+
+25.07 20:32 Array
+(
+    [currentPhone] => +7 (999) 889-99-99
+    [currentName] => тест99
+    [currentEmail] => test99@yandex.ru
+    [Количество_детей] => 1
+    [Общий_доход_семьи] => 1613
+    [Среднедушевой_доход_семьи] => 67
+    [Полагается_выплата] => 100%
+    [Количество_членов_семьи] => 2
+    [Количество_домов] => 2
+    [Количество_квартир] => 0
+    [Количество_метров_у_дома] => 
+    [Количество_соток_у_участка] => 111
+    [Количество_квадратов_квартиры] => 
+    [Количество_машин] => 0
+    [Год_выпуска_машины] => 
+    [Количество_л_c] => 
+    [Есть_ли_дети_инвалиды] => да
+)
+
+27.07 12:35 Array
+(
+    [currentPhone] => +7 (000) 000-00-00
+    [currentName] => Тестовый
+    [currentEmail] => test@test.ru
+    [Количество_детей] => 2
+    [Общий_доход_семьи] => 406800
+    [Среднедушевой_доход_семьи] => 8475
+    [Полагается_выплата] => 75%
+    [Количество_членов_семьи] => 4
+    [Количество_домов] => 0
+    [Количество_квартир] => 0
+    [Количество_метров_у_дома] => 
+    [Количество_соток_у_участка] => 
+    [Количество_квадратов_квартиры] => 
+    [Количество_машин] => 0
+    [Год_выпуска_машины] => 
+    [Количество_л_c] => 
+    [Есть_ли_дети_инвалиды] => нет
+)
+
+29.07 11:52 Array
+(
+    [currentPhone] => +7 (933) 327-81-48
+    [currentName] => Анна
+    [currentEmail] => anyapaimuratik_95@mail.ru
+    [Количество_детей] => 1
+    [Общий_доход_семьи] => 216000
+    [Среднедушевой_доход_семьи] => 9000
+    [Полагается_выплата] => 100%
+    [Количество_членов_семьи] => 2
+    [Количество_домов] => 0
+    [Количество_квартир] => 0
+    [Количество_метров_у_дома] => 
+    [Количество_соток_у_участка] => 
+    [Количество_квадратов_квартиры] => 
+    [Количество_машин] => 0
+    [Год_выпуска_машины] => 
+    [Количество_л_c] => 
+    [Есть_ли_дети_инвалиды] => нет
+)
+
