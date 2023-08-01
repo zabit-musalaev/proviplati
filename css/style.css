@@ -135,13 +135,13 @@ html {
 }
 
 .input__name {
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 20px;
-    opacity: 0.7;
-    margin-bottom: 5px;
-    color: #000000;
-    font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  opacity: 0.7;
+  margin-bottom: 5px;
+  color: #000000;
+  font-family: 'Roboto';
 }
 
 .input__subname {
@@ -149,9 +149,9 @@ html {
   margin-top: -5px;
   color: #000000;
   margin-bottom: 12px;
-   letter-spacing: 0.3px;
-   font-family: 'Roboto';
-   font-weight: 400;
+  letter-spacing: 0.3px;
+  font-family: 'Roboto';
+  font-weight: 400;
 }
 
 .input__label {
@@ -172,17 +172,17 @@ html {
 }
 
 .input input {
-    width: 100%;
-    height: 48px;
-    background: linear-gradient(180deg, #000000 0%, #6f6f6fa1 9.59%, #000000 111%), #000001;
-    border-radius: 10px;
-    font-weight: 600;
-    font-size: 14px;
-    letter-spacing: 1px;
-    color: #a6a6a6;
-    padding-left: 44px;
-/*    box-shadow: 0px 20px 50px rgb(6 6 6 / 40%);*/
-    
+  width: 100%;
+  height: 48px;
+  background: linear-gradient(180deg, #000000 0%, #6f6f6fa1 9.59%, #000000 111%), #000001;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: #a6a6a6;
+  padding-left: 44px;
+  /*    box-shadow: 0px 20px 50px rgb(6 6 6 / 40%);*/
+
 }
 
 .input input::-webkit-input-placeholder {
@@ -242,10 +242,6 @@ html {
 .select {
   width: 100%;
   height: 48px;
-/* /* background: rgba(255, 255, 255, 0.25);
-  -webkit-box-shadow: 0px 20px 50px rgba(0, 74, 123, 0.596);*/*/
-/*  box-shadow: 0px 20px 50px rgb(6 6 6 / 40%);*/
-  color: #fffffad;
   border-radius: 10px;
   font-weight: 400;
   font-size: 14px;
@@ -349,7 +345,7 @@ html {
   cursor: pointer;
   outline: none;
   color: #000000;
-    
+
 }
 
 .checkbox-custom-label,
@@ -511,13 +507,13 @@ html {
 }
 
 .wrapper {
-overflow: hidden;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    flex-direction: column;
-    min-height: 100%;
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0.75) 7.11%, rgb(41 41 41 / 77%) 92.89%), rgb(144 139 130);
+  overflow: hidden;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-direction: column;
+  min-height: 100%;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.75) 7.11%, rgb(41 41 41 / 77%) 92.89%), rgb(144 139 130);
 }
 
 html.lock {
@@ -594,15 +590,15 @@ main {
 
 
 .shapka {
-    width: 100%;
+  width: 100%;
 }
 
 
 .main__shapka {
-    width: 100%;
-    position: absolute;
-    top: 0;
-    max-width: 452px;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  max-width: 452px;
 }
 
 .main__title {
@@ -801,15 +797,15 @@ main {
 }
 
 .change__body {
-    background: linear-gradient(180deg, #000000 0%, #6f6f6fa1 9.59%, #000000 111%), #000001;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-/*    box-shadow: rgb(70 70 70 / 50%) 0px 0px 8px 3px;*/
-    height: 47px;
-    border-radius: 10px;
-    overflow: hidden;
-    gap: 20px;
+  background: linear-gradient(180deg, #000000 0%, #6f6f6fa1 9.59%, #000000 111%), #000001;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  /*    box-shadow: rgb(70 70 70 / 50%) 0px 0px 8px 3px;*/
+  height: 47px;
+  border-radius: 10px;
+  overflow: hidden;
+  gap: 20px;
 }
 
 .change__item {
@@ -839,10 +835,10 @@ main {
 }
 
 .change__item.active {
-    background-color: #dea73f;
-    color: #000000;
-    position: relative;
-    cursor: auto;
+  background-color: #dea73f;
+  color: #000000;
+  position: relative;
+  cursor: auto;
 }
 
 .change__item.active:after {
@@ -1068,16 +1064,16 @@ main {
 
 
 .slider {
-    height: 20px;
-    width: 100%;
-    max-width: 452px;
-    position: absolute;
-    top: 39px;
-    overflow: hidden;
-    background-color: #e0a841;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  height: 20px;
+  width: 100%;
+  max-width: 452px;
+  position: absolute;
+  top: 39px;
+  overflow: hidden;
+  background-color: #e0a841;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 @keyframes marquee {
@@ -1090,26 +1086,26 @@ main {
 }
 
 .marquee {
-    font-family: 'Roboto';
-    font-weight: 400;
-    letter-spacing: 0;
-    white-space: nowrap;
-    animation: marquee 15s linear infinite;
-    color: #2d2d2e;
-    text-transform: uppercase;
+  font-family: 'Roboto';
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+  animation: marquee 15s linear infinite;
+  color: #2d2d2e;
+  text-transform: uppercase;
 }
 
 
 .start {
-    width: 100%;
-    height: 70px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: #000000;
-    background-size: cover;
-    margin-top: 100px;
+  width: 100%;
+  height: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  background-size: cover;
+  margin-top: 100px;
       background-image: linear-gradient(
       rgba(16, 16, 16, 0.8),
       rgba(16, 16, 16, 0.8)
@@ -1142,25 +1138,25 @@ main {
 }
 
 .ofert {
-    margin-bottom: 10px;
-    max-width: 400px;
-    width: 100%;
-    color: #000000;
+  margin-bottom: 10px;
+  max-width: 400px;
+  width: 100%;
+  color: #000000;
 }
 
 select.select.glow.region {
-    text-transform: uppercase;
-    font-weight: 900;
-    letter-spacing: 0px;
-    font-family: 'Roboto';
-    color: #b48b3d;
+  text-transform: uppercase;
+  font-weight: 900;
+  letter-spacing: 0px;
+  font-family: 'Roboto';
+  color: #b48b3d;
 }
 select.select.glow.select-c1 {
-    color: #8c8c8c;
+  color: #8c8c8c;
 }
 
 select.select.select-status.glow {
-    color: #8b8b8b;
+  color: #8b8b8b;
 }
 
 
@@ -1171,8 +1167,8 @@ h4.input__name {
   background-repeat: round;
   background-size: 80%;
   animation: animate 20s cubic-bezier(0.26, 0.03, 0.32, 0.30) infinite;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: rgb(27 25 25 / 0%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgb(27 25 25 / 0%);
 }
 
 @keyframes animate {
@@ -1229,7 +1225,6 @@ h4.input__name {
 @keyframes loader {
   0% {
     transform: scaleY(0.1);
-    background: ;
   }
   50% {
     transform: scaleY(1);
@@ -1259,27 +1254,26 @@ h4.input__name {
 .main__logo h1, h2 {
   width: 100%;
   display: block;
-  
-} 
+
+}
 
 #custom-loader {
-		position: fixed;
-		top: 0;
-		left: 0;
-		right: 0;
-		bottom: 0;
-		background: rgba(0, 0, 0, .6);
-		z-index: 99
-	}
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, .6);
+  z-index: 99
+}
 
-	#custom-loader div {
-    margin: calc(50%) auto;
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    background: conic-gradient(#0000 10%,#ffffff);
-    -webkit-mask: radial-gradient(farthest-side,#0000 calc(100% - 8px),#000 0);
-    animation: s3 1s infinite linear;
-	}
-	
+#custom-loader div {
+  margin: calc(50%) auto;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: conic-gradient(#0000 10%,#ffffff);
+  animation: s3 1s infinite linear;
+}
+
 @keyframes s3 {to{transform: rotate(1turn)}}
