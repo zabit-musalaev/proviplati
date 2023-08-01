@@ -135,13 +135,14 @@ html {
 }
 
 .input__name {
-  font-weight: 500;
-  font-size: 14px;
+  font-weight: 700;
+  font-size: 1rem;
   line-height: 20px;
-  opacity: 0.7;
+  opacity: 0.6;
   margin-bottom: 5px;
   color: #000000;
   font-family: 'Roboto';
+  padding-left: 7px;
 }
 
 .input__subname {
@@ -149,9 +150,9 @@ html {
   margin-top: -5px;
   color: #000000;
   margin-bottom: 12px;
-  letter-spacing: 0.3px;
   font-family: 'Roboto';
-  font-weight: 400;
+  font-weight: 300;
+  padding-left: 7px;
 }
 
 .input__label {
@@ -176,8 +177,8 @@ html {
   height: 48px;
   background: linear-gradient(180deg, #000000 0%, #6f6f6fa1 9.59%, #000000 111%), #000001;
   border-radius: 10px;
-  font-weight: 600;
-  font-size: 14px;
+  font-weight: 200;
+  font-size: 11px;
   letter-spacing: 1px;
   color: #a6a6a6;
   padding-left: 44px;
@@ -187,32 +188,32 @@ html {
 
 .input input::-webkit-input-placeholder {
   font-weight: 300;
-  opacity: 0.6;
-  font-size: 14px;
+  opacity: 0.4;
+  font-size: 14x;
   letter-spacing: 1px;
   color: #ffffff;
 }
 
 .input input:-ms-input-placeholder {
   font-weight: 300;
-  opacity: 0.6;
+  opacity: 0.4;
   font-size: 14px;
   letter-spacing: 1px;
   color: #ffffff;
 }
 
 .input input::-ms-input-placeholder {
-  font-weight: 300;
-  opacity: 0.6;
+  font-weight: 200;
+  opacity: 0.4;
   font-size: 14px;
   letter-spacing: 1px;
   color: #ffffff;
 }
 
 .input input::placeholder {
-  font-weight: 300;
-  opacity: 0.6;
-  font-size: 14px;
+  font-weight: 200;
+  opacity: 0.4;
+  font-size: 14x;
   letter-spacing: 1px;
   color: #ffffff;
 }
@@ -523,7 +524,7 @@ html.lock {
 body {
   color: #000000;
   font-size: 14px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 300;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
@@ -794,15 +795,6 @@ html.lock {
   overflow: hidden;
 }
 
-body {
-  color: #000000;
-  font-size: 14px;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 300;
-  -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-}
 
 body._lock {
   overflow: hidden;
@@ -916,8 +908,6 @@ main {
   display: -ms-flexbox;
   display: flex;
   background: linear-gradient(180deg, #000000 0%, #6f6f6fa1 9.59%, #000000 111%), #000001;
-  -webkit-box-shadow: 0px 20px 50px rgba(0, 74, 123, 0.596);
-          box-shadow: 0px 20px 50px rgba(0, 74, 123, 0.596);
   height: 47px;
   border-radius: 10px;
   overflow: hidden;
@@ -1167,25 +1157,7 @@ main {
   color: #000000;
 }
 
-h4.input__name {
-  position: relative;
-  overflow: hidden;
-  background: linear-gradient(90deg, #000, #b58c3f, #000);
-  background-repeat: round;
-  background-size: 80%;
-  animation: animate 20s cubic-bezier(0.26, 0.03, 0.32, 0.30) infinite;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: rgb(27 25 25 / 0%);
-}
 
-@keyframes animate {
-  0% {
-    background-position: -500%;
-  }
-  100% {
-    background-position: 500%;
-  }
-}
 
 #middle {
   top: 50%;
@@ -1575,21 +1547,7 @@ select.select.select-status.glow {
 h4.input__name {
   position: relative;
   overflow: hidden;
-  background: linear-gradient(90deg, #000, #b58c3f, #000);
   background-repeat: round;
-  background-size: 80%;
-  animation: animate 20s cubic-bezier(0.26, 0.03, 0.32, 0.30) infinite;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: rgb(27 25 25 / 0%);
-}
-
-@keyframes animate {
-  0% {
-    background-position: -500%;
-  }
-  100% {
-    background-position: 500%;
-  }
 }
 
 #middle {
