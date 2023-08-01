@@ -528,22 +528,7 @@ body.lock {
 
 
 
-.change__line {
-  position: relative;
-}
-/*
-.change__line::after {
-  content: '';
-  position: absolute;
-  background: #0079f2;
-  height: 126%;
-  width: 4px;
-  top: -8%;
-  left: 49%;
-  -webkit-transform: rotate(22deg);
-  transform: rotate(22deg);
-}
-*/
+
 .err {
   border: 1px solid red;
 }
