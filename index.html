@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="css/style2.css" />
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/menushka.css" />
+    <link rel="stylesheet" href="css/animate.min.css" />
     <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
     <script defer src="js/utm.js"></script>
     <script defer src="js/mask.js"></script>
@@ -84,8 +85,9 @@ glowInTexts.forEach(glowInText => {
 
 </div>
 
+       <>
           <div class="main__logo">
-              <img src="img/End22.png" alt="logo" />
+            <div  class="neon animated pulse"><img src="img/End22.png" alt="logo" /></div> 
               <h1>Калькулятор</h1>
               <h2>единого пособия</h2>
             </div>
@@ -128,6 +130,9 @@ glowInTexts.forEach(glowInText => {
               <div class="form__input input">
                 <h4 class="input__name">Выберите свой регион</h4>
                 <div class="input__label">
+                  <div class="input__icon">
+                    <img src="img/icons/location.svg" alt="person">
+                  </div>
                   <select name="" id="" class="select glow region">
                     <option value="13066">Республика Дагестан </option>
                     <option value="13373">Алтайский край </option>
@@ -276,6 +281,9 @@ glowInTexts.forEach(glowInText => {
               <div class="form__input input">
                 <h4 class="input__name">Выберите возраст ребенка</h4>
                 <div class="input__label">
+                  <div class="input__icon">
+                    <img src="img/icons/person.svg" alt="person" />
+                  </div>
                   <select name="" id="" class="select glow select-c1" placeholder="lol">
                     <option value="0">Выберите возраст...</option>
                     <option value="3">0 - 3 года</option>
@@ -288,6 +296,9 @@ glowInTexts.forEach(glowInText => {
               <div class="form__input input child-2">
                 <h4 class="input__name">Выберите возраст второго ребенка</h4>
                 <div class="input__label">
+                  <div class="input__icon">
+                    <img src="img/icons/person.svg" alt="person" />
+                  </div>
                   <select name="" id="" class="select glow select-c2">
                     <option value="0">Выберите возраст...</option>
                     <option value="3">0 - 3 года</option>
@@ -300,6 +311,15 @@ glowInTexts.forEach(glowInText => {
               <div class="form__input input child-2">
                 <h4 class="input__name">Выберите возраст третьего ребенка</h4>
                 <div class="input__label">
+                  <div class="input__icon">
+                    <img src="img/icons/person.svg" alt="person" />
+                  </div>
+                  <div class="input__icon">
+                    <img src="img/icons/person.svg" alt="person" />
+                  </div>
+                  <div class="input__icon">
+                    <img src="img/icons/person.svg" alt="person" />
+                  </div>
                   <select name="" id="" class="select glow select-c3">
                     <option value="0">Выберите возраст...</option>
                     <option value="3">0 - 3 года</option>
@@ -312,6 +332,9 @@ glowInTexts.forEach(glowInText => {
               <div class="form__input input child-2">
                 <h4 class="input__name">Выберите возраст четвертого ребенка</h4>
                 <div class="input__label">
+                  <div class="input__icon">
+                    <img src="img/icons/person.svg" alt="person" />
+                  </div>
                   <select name="" id="" class="select glow select-c4">
                     <option value="0">Выберите возраст...</option>
                     <option value="3">0 - 3 года</option>
@@ -324,6 +347,9 @@ glowInTexts.forEach(glowInText => {
               <div class="form__input input child-2">
                 <h4 class="input__name">Выберите возраст пятого ребенка</h4>
                 <div class="input__label">
+                  <div class="input__icon">
+                    <img src="img/icons/person.svg" alt="person" />
+                  </div>
                   <select name="" id="" class="select glow select-c5">
                     <option value="0">Выберите возраст...</option>
                     <option value="3">0 - 3 года</option>
@@ -336,6 +362,9 @@ glowInTexts.forEach(glowInText => {
               <div class="form__input input">
                 <h4 class="input__name">Выберите семейное положение</h4>
                 <div class="input__label">
+                  <div class="input__icon">
+                    <img src="img/icons/person.svg" alt="person" />
+                  </div>
                   <select name="" id="" class="select select-status glow">
                     <option value="">Выберите пункт...</option>
                     <option value="ЗАГС">ЗАГС</option>
@@ -777,24 +806,23 @@ glowInTexts.forEach(glowInText => {
               <div class="line"></div>
               <div class="bottom">
                 <div class="bottom__item">
-                  <div class="bottom__name">Общий доход семьи:</div>
+                  <div class="bottom__name">Доход вашей семьи</div>
                   <div class="bottom__value">
                     <div type="number" class="" id="income"></div>
                   </div>
                 </div>
                 <div style="gap: 10px" class="bottom__item bottom__item_twice">
                   <div class="bottom__subitem">
-                    <div style="margin-bottom: 10px" class="bottom__name">
-                      Количество членов <br />
-                      семьи:
+                    <div style="margin-bottom: 0px" class="bottom__name">
+                      Членов семьи:
                     </div>
                     <div class="bottom__value">
                       <div type="number" class="phone customs" id="family-members">2</div>
                     </div>
                   </div>
                   <div class="bottom__subitem">
-                    <div style="margin-bottom: 10px; padding-top: 20px" class="bottom__name">
-                      Количество детей
+                    <div style="margin-bottom: 0px; padding-top: 20px" class="bottom__name">
+                      Детей
                     </div>
                     <div class="bottom__value">
                       <div type="number" class="phone customs" id="children">1</div>
@@ -803,15 +831,14 @@ glowInTexts.forEach(glowInText => {
                 </div>
                 <div class="bottom__item">
                   <div class="bottom__name">
-                    Среднедушевой доход <br />
-                    вашей семьи:
+                    Среднедушевой доход
                   </div>
                   <form class="bottom__value">
                     <div type="number" class="phone customs" id="middle">1</div>
                   </form>
                 </div>
                 <div class="bottom__item">
-                  <div class="bottom__name">Вам полагается выплата в размере:</div>
+                  <div class="bottom__name">Вам полагается</div>
                   <div class="bottom__value">
                     <div style="font-size: 12px; letter-spacing: normal" class="income__size"></div>
                     <div class="income__numbers max"></div>
@@ -878,7 +905,7 @@ glowInTexts.forEach(glowInText => {
               </div> -->
             </div>
 
-        </section>
+      
         <!-- <div class="phone__icons">
           <a href="tel:89645700262" class="phone__icon">
             <img src="img/phone.png" alt="phone" />
@@ -920,9 +947,6 @@ glowInTexts.forEach(glowInText => {
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
     })();
 </script>
-
-
-
 <!-- End LeadBack code {/literal} -->
   </body>
 </html>

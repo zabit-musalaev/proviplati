@@ -409,39 +409,36 @@ body.lock {
 }
 
 .textarea::-webkit-input-placeholder {
-  font-weight: 300;
-  opacity: 0.6;
-  font-size: 14px;
+  font-weight: 200;
+  opacity: 0.4;
+  font-size: 12px;
   letter-spacing: 1px;
   color: #ffffff;
 }
 
 .textarea:-ms-input-placeholder {
-  font-weight: 300;
-  opacity: 0.6;
-  font-size: 14px;
+  font-weight: 200;
+  opacity: 0.4;
+  font-size: 12px;
   letter-spacing: 1px;
   color: #ffffff;
 }
 
 .textarea::-ms-input-placeholder {
-  font-weight: 300;
-  opacity: 0.6;
-  font-size: 14px;
+  font-weight: 200;
+  opacity: 0.4;
+  font-size: 12px;
   letter-spacing: 1px;
   color: #ffffff;
 }
 
 .textarea::placeholder {
-  font-weight: 300;
-  opacity: 0.6;
-  font-size: 14px;
+  font-weight: 200;
+  opacity: 0.4;
+  font-size: 12px;
   letter-spacing: 1px;
   color: #ffffff;
 }
-
-
-
 
 .none {
   display: none;
@@ -450,8 +447,6 @@ body.lock {
 .none.active {
   display: block;
 }
-
-
 
 @media (max-width: 767.98px) {
 

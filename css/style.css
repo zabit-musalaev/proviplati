@@ -135,14 +135,14 @@ html {
 }
 
 .input__name {
-  font-weight: 700;
+  font-weight: 400;
   font-size: 1rem;
   line-height: 20px;
-  opacity: 0.6;
   margin-bottom: 5px;
-  color: #000000;
-  font-family: 'Roboto';
+  color: #000000cf;
+  font-family: 'Open Sans';
   padding-left: 7px;
+  font-size: 14px;
 }
 
 .input__subname {
@@ -187,11 +187,11 @@ html {
 }
 
 .input input::-webkit-input-placeholder {
-  font-weight: 300;
+  font-weight: 200;
   opacity: 0.4;
-  font-size: 14x;
+  font-size: 12px;
   letter-spacing: 1px;
-  color: #ffffff;
+  color: #f6f4f4;
 }
 
 .input input:-ms-input-placeholder {
@@ -199,7 +199,7 @@ html {
   opacity: 0.4;
   font-size: 14px;
   letter-spacing: 1px;
-  color: #ffffff;
+  color: #f6f4f4;
 }
 
 .input input::-ms-input-placeholder {
@@ -207,7 +207,7 @@ html {
   opacity: 0.4;
   font-size: 14px;
   letter-spacing: 1px;
-  color: #ffffff;
+  color: #f6f4f4;
 }
 
 .input input::placeholder {
@@ -215,7 +215,7 @@ html {
   opacity: 0.4;
   font-size: 14x;
   letter-spacing: 1px;
-  color: #ffffff;
+  color: #f6f4f4;
 }
 
 .input__icon {
@@ -224,10 +224,11 @@ html {
   top: 50%;
   -webkit-transform: translate(0, -50%);
   transform: translate(0, -50%);
+  max-width: 13px;
 }
 
 .input__icon img {
-  width: 16px;
+  width: 100%;
 }
 
 .input span {
@@ -245,15 +246,16 @@ html {
   height: 48px;
   border-radius: 10px;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 12px;
   letter-spacing: 1px;
-  color: #ffffff;
-  padding-left: 20px;
+  padding-left: 45px;
+  color: #8b8b8b;
   background: linear-gradient(180deg, #000000 0%, #6f6f6fa1 9.59%, #000000 111%), #000001;
 }
 
 .select option {
   color: #000000;
+  opacity: 0.4;
 }
 
 .child-2 {
@@ -283,7 +285,7 @@ html {
 }
 
 .choices__item {
-  font-weight: 500;
+  font-weight: 00;
   padding-left: 5px;
 }
 
@@ -359,8 +361,8 @@ html {
 .checkbox-custom + .checkbox-custom-label:before,
 .radio-custom + .radio-custom-label:before {
   content: '';
-  border-radius: 5px;
-  background: rgb(8 8 8 / 25%);
+  border-radius: 4px;
+  background: rgb(9 7 7);
   display: inline-block;
   vertical-align: middle;
   width: 20px;
@@ -748,6 +750,11 @@ main {
 
 .reasons {
   text-align: center;
+  color: #000000;
+  display: block;
+  border: 1px solid ;
+  margin-bottom: 20px;
+
 }
 
 .reasons__title {
@@ -758,8 +765,11 @@ main {
 }
 
 .reasons__reasons {
+  text-decoration: underline;
   font-size: 16px;
-  padding-bottom: 10px;
+  font-weight: 500;
+  color: red;
+
 }
 
 .phone__icons {
@@ -1054,10 +1064,6 @@ main {
   letter-spacing: normal;
 }
 
-.select {
-  color: #ffffffd6;
-}
-
 .change__line {
   position: relative;
 }
@@ -1262,16 +1268,13 @@ main {
   height: 50px;
   border-radius: 50%;
   background: conic-gradient(#0000 10%,#ffffff);
-  animation: s3 1s infinite linear;
+  animation: s1 1s infinite linear;
 }
 
 @keyframes s3 {to{transform: rotate(1turn)}}
 
 
 
-.swiper__container {
-  margin: 0;
-}
 
 .privacy__title {
   text-align: center;
@@ -1297,17 +1300,6 @@ main {
   margin-bottom: 15px;
 }
 
-.why__container {
-  background-color: #ffffff;
-  -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
-  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
-  border-radius: 10px;
-  text-align: center;
-  padding: 25px 15px;
-  font-weight: 700;
-  font-size: 28px;
-}
-
 .regard__container {
   padding: 25px 15px;
   font-size: 22px;
@@ -1316,8 +1308,8 @@ main {
 }
 
 .line {
-  background: #000000;
-  height: 8px;
+  background: #020101;
+  height: 5px;
   width: 120%;
   margin: 20px 0px;
 }
@@ -1336,7 +1328,7 @@ main {
 }
 
 .select {
-  color: #ffffffd6;
+  color: #8b8b8b;
 }
 
 .change__line {
@@ -1359,7 +1351,6 @@ main {
 
 .bottom {
   border-radius: 20px;
-
   -webkit-box-shadow: 0px 40px 80px rgba(0, 0, 0, 0.15);
   box-shadow: 0px 40px 80px rgba(0, 0, 0, 0.15);
   width: 100%;
@@ -1370,7 +1361,9 @@ main {
   flex-wrap: wrap;
   position: relative;
   text-align: center;
-  color: #666666;
+  color: #050404;
+  text-transform: uppercase;
+  font-family: 'roboto';
   background: linear-gradient(248deg, rgb(211 190 158) 7.11%, rgb(164 149 126) 92.89%), rgb(9 8 8);
 }
 
@@ -1407,18 +1400,17 @@ main {
 }
 
 .bottom__name {
-  font-weight: 600;
-  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: normal;
+  font-size: 12px;
   -webkit-box-flex: 1;
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
 }
 
 .bottom__value {
-  font-size: 30px;
+  font-size: 50px;
   font-weight: 700;
-  font-family: 'Share Tech', sans-serif;
-  letter-spacing: -2px;
 }
 
 .bottom__value input {
@@ -1482,7 +1474,6 @@ main {
   text-transform: uppercase;
 }
 
-
 .start {
   width: 100%;
   height: 70px;
@@ -1532,11 +1523,10 @@ main {
 }
 
 select.select.glow.region {
-
   color: #8b8b8b;
 }
 select.select.glow.select-c1 {
-  color: #8c8c8c;
+  color: #8b8b8b;
 }
 
 select.select.select-status.glow {
@@ -1632,9 +1622,8 @@ h4.input__name {
   width: 100%;
   display: block;
   font-family: 'agressive';
-  font-weight: 300;
+  font-weight: 500;
   letter-spacing: 1px;
-
 }
 
 #custom-loader {
@@ -1644,7 +1633,7 @@ h4.input__name {
   right: 0;
   bottom: 0;
   background: rgba(0, 0, 0, .6);
-  z-index: 99
+  z-index: -99;
 }
 
 #custom-loader div {
@@ -1652,8 +1641,54 @@ h4.input__name {
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background: conic-gradient(#0000 10%,#ffffff);
+  background: conic-gradient(#0000 10%,#b48b3d);
   animation: s3 1s infinite linear;
 }
 
 @keyframes s3 {to{transform: rotate(1turn)}}
+
+@-webkit-keyframes pulse {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+
+  50% {
+    -webkit-transform: scale3d(1.05, 1.05, 1.05);
+    transform: scale3d(1.05, 1.05, 1.05);
+  }
+
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+@keyframes pulse {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+
+  50% {
+    -webkit-transform: scale3d(1.05, 1.05, 1.05);
+    transform: scale3d(1.05, 1.05, 1.05);
+  }
+
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+.pulse {
+  -webkit-animation-name: pulse;
+  animation-name: pulse;
+}
+
+.animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
